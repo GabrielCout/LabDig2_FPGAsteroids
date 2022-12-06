@@ -8,7 +8,7 @@ ser.port = 'COM5'
 ser.bytesize = 7
 ser.parity = 'E'
 ser.stopbits = 2
-ser.timeout = 0.1
+ser.timeout = 0.2
 print(ser.name)         # check which port was really used
 
 
